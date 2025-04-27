@@ -37,11 +37,14 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" value="pmsg=errMap[pcode]" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="354" y="280" width="136" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="fUHKC6fGtYaOzlg_kSCq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fUHKC6fGtYaOzlg_kSCq-0" target="fUHKC6fGtYaOzlg_kSCq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fUHKC6fGtYaOzlg_kSCq-0" value="&quot; : &quot; in pmsg ?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="150" y="450" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fUHKC6fGtYaOzlg_kSCq-1" value="tmsg = str before &quot; : &quot;&lt;div&gt;smsg&amp;nbsp; =&amp;nbsp; str after &quot; : &quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="545" width="150" height="40" as="geometry" />
+          <mxGeometry x="145" y="545" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
