@@ -109,7 +109,7 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-35" value="VrepController" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;arcSize=50;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1265" y="5831.75" width="126" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-36" value="Funciton 自定义层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;shadow=1;" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-36" value="Funciton 指令层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fillColor=#ffff88;strokeColor=#36393d;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="971" y="5675.5" width="919" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-37" value="..." style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
