@@ -14,7 +14,7 @@
           <mxGeometry x="961" y="5552.75" width="939" height="222" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-4" value="Xenomai&lt;div&gt;API&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="971" y="6000" width="216" height="82.25" as="geometry" />
+          <mxGeometry x="930" y="6000" width="290" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-5" value="glibc" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="1544.25" y="5999" width="465.75" height="84.25" as="geometry" />
