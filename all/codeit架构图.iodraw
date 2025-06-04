@@ -40,7 +40,7 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-12" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="970" y="5564.75" width="920" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-13" value="&amp;lt;公共组件库&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;shadow=1;" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-13" value="&amp;lt;Public Component&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="1920" y="5554.75" width="440" height="401" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-14" value="terminal&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;command&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
