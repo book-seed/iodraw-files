@@ -187,8 +187,11 @@
         <mxCell id="KqdTqZGMru-cbYRXGZpm-8" value="Jog" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1530" y="5716" width="89" height="40.75" as="geometry" />
         </mxCell>
-        <mxCell id="KqdTqZGMru-cbYRXGZpm-9" value="Clear" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="KqdTqZGMru-cbYRXGZpm-9" value="MoveJ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="1640" y="5716" width="89" height="40.75" as="geometry" />
+        </mxCell>
+        <mxCell id="KqdTqZGMru-cbYRXGZpm-10" value="MoveJ" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1750.25" y="5716" width="89" height="40.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
