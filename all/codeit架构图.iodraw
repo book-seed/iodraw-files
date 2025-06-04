@@ -61,10 +61,10 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-19" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Communication&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;fontSize=10;dashed=1;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="2099" y="5607.25" width="241" height="183.75" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-20" value="Debug Tool" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Debug Tool&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2109.75" y="5808.5" width="120.5" height="52.75" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-21" value="Message Protocol" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-21" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Message Protocol&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2118" y="5732.12" width="202" height="36" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;pipe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
