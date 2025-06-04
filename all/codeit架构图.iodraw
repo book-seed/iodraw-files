@@ -133,7 +133,7 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-45" value="&lt;div&gt;Sensor/IO&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#ffcc99;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1770" y="5784.25" width="130" height="85.75" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-46" value="仿真&lt;div&gt;vrep&lt;/div&gt;&lt;div&gt;robotDK&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-46" value="simulator" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1770" y="5875.75" width="130" height="82" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-47" value="公共错误&lt;div&gt;处理机制&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
