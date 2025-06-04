@@ -82,7 +82,7 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-28" value="&amp;lt;Model&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=18;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1320" y="5787.75" width="351" height="182.25" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-31" value="配置" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-31" value="Config" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2109.5" y="5873.5" width="130.5" height="52.25" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-32" value="Global Motion Planner" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
