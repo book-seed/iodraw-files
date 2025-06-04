@@ -17,13 +17,13 @@
           <mxGeometry x="970" y="6000" width="250" height="82.25" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-5" value="glibc" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="1655" y="6000" width="320" height="84.25" as="geometry" />
+          <mxGeometry x="1710" y="6000" width="265" height="84.25" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-6" value="" style="line;strokeWidth=2;direction=south;html=1;dashed=1;dashPattern=8 8;rotation=90;" parent="1" vertex="1">
           <mxGeometry x="1740.25" y="5200" width="10" height="1556.5" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-7" value="kernel" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
-          <mxGeometry x="1650" y="6101.75" width="850" height="90" as="geometry" />
+          <mxGeometry x="1710" y="6101.75" width="790" height="90" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-8" value="&lt;div&gt;xenomai&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;kernel&lt;/span&gt;&lt;/div&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontSize=28;fontStyle=1;fontFamily=Comic Sans MS;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="971" y="6100.75" width="649" height="90" as="geometry" />
@@ -158,7 +158,7 @@
           <mxGeometry x="2670" y="5300" width="290" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-54" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;EtherCAT Master UserSpace&lt;/font&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1230" y="6000" width="400" height="90" as="geometry" />
+          <mxGeometry x="1230" y="6000" width="450" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KqdTqZGMru-cbYRXGZpm-1" value="Enable" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="996" y="5716" width="89" height="40.75" as="geometry" />
