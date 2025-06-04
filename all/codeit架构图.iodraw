@@ -67,8 +67,8 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-21" value="统一&lt;div&gt;消息协议&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2118" y="5732.12" width="150.5" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-22" value="Pipe" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="2216.5" y="5638.37" width="42.75" height="26" as="geometry" />
+        <mxCell id="3SaodOLeLkClMm_V_bGh-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pipe&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="2187.5" y="5637.75" width="42.5" height="32.25" as="geometry" />
         </mxCell>
         <mxCell id="3SaodOLeLkClMm_V_bGh-23" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;socket&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2118.75" y="5638.37" width="61.25" height="30" as="geometry" />
