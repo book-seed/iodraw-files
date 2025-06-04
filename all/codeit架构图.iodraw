@@ -157,7 +157,7 @@
         <mxCell id="3SaodOLeLkClMm_V_bGh-53" value="云端接入能力" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2670" y="5300" width="290" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="3SaodOLeLkClMm_V_bGh-54" value="EtherCAT IGH" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="3SaodOLeLkClMm_V_bGh-54" value="EtherCAT Master UsrSpace" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=Comic Sans MS;fontSize=22;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1230" y="6000" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KqdTqZGMru-cbYRXGZpm-1" value="Enable" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontStyle=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
