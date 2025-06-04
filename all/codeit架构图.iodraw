@@ -197,10 +197,10 @@
           <mxGeometry x="1943.75" y="5683.12" width="131.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KqdTqZGMru-cbYRXGZpm-20" value="Trajectory/Path" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=16;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1943.75" y="5759.5" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="1943.75" y="5742" width="131.5" height="49" as="geometry" />
         </mxCell>
         <mxCell id="KqdTqZGMru-cbYRXGZpm-21" value="Trajectory/Path" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontStyle=1;fontSize=16;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontColor=default;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="1943.75" y="5838.5" width="131.5" height="49" as="geometry" />
+          <mxGeometry x="1943.75" y="5802.63" width="131.5" height="49" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
