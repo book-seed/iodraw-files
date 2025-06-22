@@ -17,7 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-5" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="345" y="286" width="26" height="26" as="geometry" />
+          <mxGeometry x="340" y="310" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="__IFFZs3VDcylZyxh9hn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -36,6 +36,9 @@
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-10" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="310" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="__IFFZs3VDcylZyxh9hn-11" value="对象（状态变量X）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
