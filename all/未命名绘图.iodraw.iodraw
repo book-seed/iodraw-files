@@ -7,11 +7,6 @@
         <mxCell id="YqUYDG-EiMYYBvPYHi2w-4" value="&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgba(0, 0, 0, 0.06);&quot;&gt;`\sqrt{3×-1}+(1 + x)^2`&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgba(0, 0, 0, 0.06);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="660" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="__IFFZs3VDcylZyxh9hn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="__IFFZs3VDcylZyxh9hn-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-1" value="对象（状态变量X）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -22,10 +17,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-5" value="Y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="337" y="302" width="26" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="__IFFZs3VDcylZyxh9hn-6" value="v&lt;span style=&quot;font-size: 10px;&quot;&gt;2&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="330" y="350" width="40" height="30" as="geometry" />
+          <mxGeometry x="345" y="286" width="26" height="26" as="geometry" />
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="__IFFZs3VDcylZyxh9hn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
