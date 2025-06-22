@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-9" value="U" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="157" y="312" width="27" height="26" as="geometry" />
+          <mxGeometry x="157" y="284" width="27" height="26" as="geometry" />
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-10" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="525" y="310" width="30" height="30" as="geometry" />
@@ -61,7 +61,7 @@
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="160" y="400" as="sourcePoint" />
+            <mxPoint x="160" y="380" as="sourcePoint" />
             <mxPoint x="210" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
