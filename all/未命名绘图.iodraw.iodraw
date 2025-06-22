@@ -41,7 +41,7 @@
         <mxCell id="__IFFZs3VDcylZyxh9hn-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="420" as="sourcePoint" />
-            <mxPoint x="90" y="420" as="targetPoint" />
+            <mxPoint x="70" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="__IFFZs3VDcylZyxh9hn-14" value="状态变量X的估计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
