@@ -7,9 +7,6 @@
         <mxCell id="YqUYDG-EiMYYBvPYHi2w-4" value="&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgba(0, 0, 0, 0.06);&quot;&gt;`\sqrt{3×-1}+(1 + x)^2`&lt;/span&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: Menlo, Monaco, Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; text-align: left; background-color: rgba(0, 0, 0, 0.06);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="380" y="660" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="JMJTXlhzpBUhrCeYMw7P-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JMJTXlhzpBUhrCeYMw7P-1" target="JMJTXlhzpBUhrCeYMw7P-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="JMJTXlhzpBUhrCeYMw7P-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="100" y="140" width="40" height="70" as="geometry" />
         </mxCell>
@@ -18,9 +15,6 @@
         </mxCell>
         <mxCell id="JMJTXlhzpBUhrCeYMw7P-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="560" y="140" width="40" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="JMJTXlhzpBUhrCeYMw7P-4" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="100" y="290" width="40" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
