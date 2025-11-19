@@ -65,10 +65,10 @@
           <mxGeometry x="434" y="440" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-27" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 13px;&quot;&gt;复位&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="329" y="180" width="60" height="30" as="geometry" />
+          <mxGeometry x="350" y="180" width="39" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-28" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 13px;&quot;&gt;自检/初始化完成&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="284" y="311" width="106" height="30" as="geometry" />
+          <mxGeometry x="284" y="306" width="106" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
