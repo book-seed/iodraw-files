@@ -181,7 +181,7 @@
           <mxGeometry x="40" y="535" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-144" value="0x605A" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-360" y="860" width="620" height="270" as="geometry" />
+          <mxGeometry x="-360" y="860" width="620" height="260" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
           <mxGeometry y="30" width="620" height="40" as="geometry" />
@@ -274,21 +274,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-165" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
-          <mxGeometry y="230" width="620" height="40" as="geometry" />
+          <mxGeometry y="230" width="620" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-166" value="6" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-165">
-          <mxGeometry width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
+          <mxGeometry width="60" height="30" as="geometry">
+            <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-167" value="按“急停斜坡”减速后，保持在“Quick stop”状态" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-165">
-          <mxGeometry x="60" width="360" height="40" as="geometry">
-            <mxRectangle width="360" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="30" as="geometry">
+            <mxRectangle width="360" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-168" value="需快速制动但保留恢复可能得场景" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-165">
-          <mxGeometry x="420" width="200" height="40" as="geometry">
-            <mxRectangle width="200" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="200" height="30" as="geometry">
+            <mxRectangle width="200" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
