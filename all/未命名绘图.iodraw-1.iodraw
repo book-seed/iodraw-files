@@ -184,7 +184,7 @@
           <mxGeometry x="-390" y="456.9" width="425" height="200.1" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-144" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="812" width="180" height="270" as="geometry" />
+          <mxGeometry x="-380" y="740" width="180" height="270" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-145" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
@@ -212,7 +212,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-151" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-149">
+        <mxCell id="B8vq61a1Mwelak4ddei2-151" value="直接禁用驱动功能，" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-149">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
