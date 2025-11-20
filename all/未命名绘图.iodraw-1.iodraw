@@ -266,7 +266,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-163" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-161">
+        <mxCell id="B8vq61a1Mwelak4ddei2-163" value="按“减速斜坡”减速后，保持" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-161">
           <mxGeometry x="60" width="360" height="40" as="geometry">
             <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
