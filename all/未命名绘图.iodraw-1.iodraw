@@ -169,7 +169,7 @@
           <mxGeometry x="200" y="790" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-65" value="Quick Stop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="170" y="780" width="102" height="10" as="geometry" />
+          <mxGeometry x="163" y="812" width="102" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
