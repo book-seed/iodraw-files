@@ -195,13 +195,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-147" value="动作描述" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-145">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-148" value="应用场景" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-145">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-149" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
@@ -213,13 +213,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-151" value="直接禁用驱动功能，跳转至“Switch on disabled”" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-149">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-152" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-149">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-153" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
@@ -231,13 +231,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-155" value="按“减速斜坡”减速后，禁用驱动功能并跳转至“Switch on disabled”" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-153">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-156" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-153">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-157" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
@@ -248,14 +248,14 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-159" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-157">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+        <mxCell id="B8vq61a1Mwelak4ddei2-159" value="按“急停斜坡”减速后，禁用驱动功能并跳转至“Switch on disabled”" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-157">
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-160" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-157">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-161" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
@@ -267,13 +267,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-163" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-161">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-164" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-161">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-165" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="B8vq61a1Mwelak4ddei2-144">
@@ -285,13 +285,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-167" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-165">
-          <mxGeometry x="60" width="300" height="40" as="geometry">
-            <mxRectangle width="300" height="40" as="alternateBounds" />
+          <mxGeometry x="60" width="360" height="40" as="geometry">
+            <mxRectangle width="360" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-168" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-165">
-          <mxGeometry x="360" width="210" height="40" as="geometry">
-            <mxRectangle width="210" height="40" as="alternateBounds" />
+          <mxGeometry x="420" width="150" height="40" as="geometry">
+            <mxRectangle width="150" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
