@@ -47,7 +47,7 @@
           <mxGeometry x="393" y="180" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-19" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;1&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="389" y="300" width="26" height="30" as="geometry" />
+          <mxGeometry x="389" y="295" width="26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-22" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;启动阶段状态转移&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0031f5;" vertex="1" parent="1">
           <mxGeometry x="274" y="60" width="140" height="30" as="geometry" />
