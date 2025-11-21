@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="B8vq61a1Mwelak4ddei2-190" value="触发条件：主站通过控制字的故障复位位" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
+        <mxCell id="B8vq61a1Mwelak4ddei2-190" value="触发条件：主站通过控制字的“故障复位位（bit 7）”发送“故障复位命令”。&lt;div&gt;动作约束：&lt;/div&gt;&lt;div&gt;1.故障状态被复位，设备从“FAULT”跳转到“SWITCH ON DISABLE”。&lt;/div&gt;&lt;div&gt;2. 主站必须清楚控制字的故障复位位——因为驱动仅在“FAULT”状态下监控该位，若未清楚，下一次故障发生时，驱动可能无任何提示的自动跳转到“SWITCH ON DISABLE”，引发不可预测的状态异常。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFF66;" vertex="1" parent="1">
           <mxGeometry x="850" y="-70" width="750" height="310" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-174" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B8vq61a1Mwelak4ddei2-173" target="B8vq61a1Mwelak4ddei2-9">
