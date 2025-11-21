@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="B8vq61a1Mwelak4ddei2-173" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF3333;strokeColor=none;strokeWidth=2;opacity=40;gradientColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="210" width="770" height="640" as="geometry" />
+        </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#0000FF;strokeColor=none;strokeWidth=2;opacity=20;" vertex="1" parent="1">
           <mxGeometry x="240" y="60" width="300" height="360" as="geometry" />
         </mxCell>
@@ -301,9 +304,6 @@
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-172" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;This transition is performed automatically&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;if the quick stop option code, 0x605A, is &amp;gt;4.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="-30" y="535" width="270" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-173" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF9999;strokeColor=none;strokeWidth=2;opacity=40;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="210" width="770" height="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
