@@ -299,8 +299,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-172" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;This transition is performed automatically&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;if the quick stop option code, 0x605A, is &amp;gt;4.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-235" y="473" width="270" height="40" as="geometry" />
+        <mxCell id="B8vq61a1Mwelak4ddei2-172" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;This transition is performed automatically&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;if the quick stop option code, 0x605A, is &amp;gt;4.&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="480" width="270" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
