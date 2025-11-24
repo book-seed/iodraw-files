@@ -1675,8 +1675,8 @@
             <mxRectangle width="17" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-540" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Switch on&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B8vq61a1Mwelak4ddei2-496">
-          <mxGeometry x="43" width="80" height="30" as="geometry" />
+        <mxCell id="B8vq61a1Mwelak4ddei2-540" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Quick stop active&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="B8vq61a1Mwelak4ddei2-496">
+          <mxGeometry x="23" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-541" value="&lt;b&gt;0x23&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;" vertex="1" parent="B8vq61a1Mwelak4ddei2-496">
           <mxGeometry x="468" y="10" width="60" height="30" as="geometry" />
