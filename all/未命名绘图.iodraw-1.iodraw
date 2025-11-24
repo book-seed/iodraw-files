@@ -462,11 +462,6 @@
         <mxCell id="B8vq61a1Mwelak4ddei2-223" value="&lt;b&gt;&lt;font color=&quot;#0000ff&quot;&gt;Not ready to switch on&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="100" y="1085" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-248" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8vq61a1Mwelak4ddei2-224" target="B8vq61a1Mwelak4ddei2-246">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="1109.888888888889" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-224" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
           <mxGeometry x="245" y="1110" width="320" height="20" as="geometry" />
         </mxCell>
@@ -572,7 +567,7 @@
           <mxGeometry x="200" y="1105" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-246" value="&lt;b&gt;0x00&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="611" y="1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="611" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
