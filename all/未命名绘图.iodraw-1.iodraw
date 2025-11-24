@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="8BrN0K-xDw5A5MkKaFPp">
-    <mxGraphModel dx="2577" dy="1252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="501" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Fault&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b style=&quot;color: rgb(0, 0, 255); font-size: 13px;&quot;&gt;（故障锁定态，彻底禁用驱动功能）&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="890" y="326.2" width="260" height="60" as="geometry" />
+          <mxGeometry x="890" y="325.2" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-16" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;0&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="393" y="180" width="24" height="30" as="geometry" />
@@ -321,10 +321,10 @@
           <mxGeometry x="690" y="530" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-178" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;14&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="910" y="420" width="24" height="30" as="geometry" />
+          <mxGeometry x="990" y="420" width="24" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-179" value="&lt;span&gt;&lt;font color=&quot;#7f00ff&quot; style=&quot;font-size: 13px;&quot;&gt;Fault reaction completed&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontColor=#FF3333;" vertex="1" parent="1">
-          <mxGeometry x="940" y="420" width="170" height="30" as="geometry" />
+          <mxGeometry x="1020" y="420" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-188" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8vq61a1Mwelak4ddei2-181" target="B8vq61a1Mwelak4ddei2-186">
           <mxGeometry relative="1" as="geometry">
