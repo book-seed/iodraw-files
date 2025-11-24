@@ -365,7 +365,7 @@
           <mxGeometry x="200" y="1105" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-246" value="&lt;b&gt;0x00&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFFF00;" vertex="1" parent="1">
-          <mxGeometry x="611" y="1100" width="60" height="30" as="geometry" />
+          <mxGeometry x="596" y="1095" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-250" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="245" y="1090" width="320" height="40" as="geometry" />
@@ -572,7 +572,7 @@
             <mxRectangle width="17" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B8vq61a1Mwelak4ddei2-252" value="" style="endArrow=classic;html=1;rounded=0;curved=1;" edge="1" parent="1">
+        <mxCell id="B8vq61a1Mwelak4ddei2-252" value="" style="endArrow=classic;html=1;rounded=0;curved=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B8vq61a1Mwelak4ddei2-224" target="B8vq61a1Mwelak4ddei2-246">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="1080" as="sourcePoint" />
             <mxPoint x="550" y="1030" as="targetPoint" />
