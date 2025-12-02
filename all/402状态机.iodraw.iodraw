@@ -2757,8 +2757,8 @@
             <mxRectangle width="90" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HNiP4QJdGsVU6cn11MbZ-1" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;codeit在这个状态下下发了控制字0x00&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#FFFF00;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="545" y="1677.5" width="260" height="30" as="geometry" />
+        <mxCell id="HNiP4QJdGsVU6cn11MbZ-1" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;font-size: 14px;&quot;&gt;codeit在这个状态下下发了控制字0x00&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#808080;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1677.5" width="260" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
