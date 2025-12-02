@@ -3312,6 +3312,11 @@
         <mxCell id="1Wap5vaEwNe551d3Rt_F-153" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;已切换到目标状态，codeit下发了0x00，初始化控制字&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1Wap5vaEwNe551d3Rt_F-9">
           <mxGeometry x="20" y="140" width="360" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1Wap5vaEwNe551d3Rt_F-154" value="&lt;b&gt;x&lt;/b&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1621.5" width="16" height="20" as="geometry">
+            <mxRectangle width="16" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
