@@ -649,6 +649,9 @@
         <mxCell id="1Wap5vaEwNe551d3Rt_F-7" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;已切换到目标状态，无控制字下发&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1Wap5vaEwNe551d3Rt_F-8">
           <mxGeometry x="20" y="347.5" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1Wap5vaEwNe551d3Rt_F-284" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;驱动器内部状态转换，codeit无控制字下发&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1Wap5vaEwNe551d3Rt_F-8">
+          <mxGeometry x="55" y="70" width="290" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="HNiP4QJdGsVU6cn11MbZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="-60" y="1190" width="580" height="610" as="geometry" />
         </mxCell>
@@ -3440,9 +3443,6 @@
         </mxCell>
         <mxCell id="1Wap5vaEwNe551d3Rt_F-283" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;驱动器内部状态转换，codeit下发0x00，初始化控制字&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1Wap5vaEwNe551d3Rt_F-9">
           <mxGeometry x="20" y="80" width="360" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="1Wap5vaEwNe551d3Rt_F-284" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;驱动器内部状态转换，codeit下发0x00，初始化控制字&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="1280" width="360" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
