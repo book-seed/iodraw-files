@@ -1244,6 +1244,9 @@
             <mxPoint x="350" y="-60" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="HNiP4QJdGsVU6cn11MbZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="B8vq61a1Mwelak4ddei2-399">
+          <mxGeometry x="10" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="B8vq61a1Mwelak4ddei2-448" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-33" y="1527" width="528" height="51" as="geometry" />
         </mxCell>
@@ -2759,9 +2762,6 @@
         </mxCell>
         <mxCell id="HNiP4QJdGsVU6cn11MbZ-1" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;codeit在这个状态下下发了控制字0x00&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="560" y="1677.5" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="HNiP4QJdGsVU6cn11MbZ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="1440" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
