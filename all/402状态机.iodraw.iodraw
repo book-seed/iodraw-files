@@ -2763,6 +2763,12 @@
         <mxCell id="HNiP4QJdGsVU6cn11MbZ-1" value="&lt;font color=&quot;#0000ff&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;codeit在这个状态下下发了控制字0x00&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=#CCCCCC;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="560" y="1677.5" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HNiP4QJdGsVU6cn11MbZ-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HNiP4QJdGsVU6cn11MbZ-5" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1360" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
