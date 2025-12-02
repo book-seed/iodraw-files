@@ -2772,8 +2772,8 @@
         <mxCell id="HNiP4QJdGsVU6cn11MbZ-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;状态确认&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="181" y="1200" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HNiP4QJdGsVU6cn11MbZ-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;状态确认&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="191" y="1210" width="100" height="30" as="geometry" />
+        <mxCell id="HNiP4QJdGsVU6cn11MbZ-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;控制指令&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1200" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
