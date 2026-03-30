@@ -34,9 +34,6 @@
         <mxCell id="9TsFKOkHD7Hs76wYPJ6L-10" value="" style="endArrow=block;html=1;strokeColor=#666;" edge="1" parent="1" source="9TsFKOkHD7Hs76wYPJ6L-1" target="9TsFKOkHD7Hs76wYPJ6L-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9TsFKOkHD7Hs76wYPJ6L-11" value="loop For each Joint i" style="rounded=1;fillColor=#f5f5f5;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="850" height="500" as="geometry" />
-        </mxCell>
         <mxCell id="9TsFKOkHD7Hs76wYPJ6L-12" value="" style="endArrow=block;html=1;strokeColor=#000;" edge="1" parent="1" source="9TsFKOkHD7Hs76wYPJ6L-1" target="9TsFKOkHD7Hs76wYPJ6L-2">
           <mxGeometry y="150" relative="1" as="geometry" />
         </mxCell>
