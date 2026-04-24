@@ -59,7 +59,10 @@
           <mxGeometry x="660" y="2640" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-19" value="老化磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="2640" width="140" height="30" as="geometry" />
+          <mxGeometry x="660" y="2590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-20" value="摩擦力信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2700" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
