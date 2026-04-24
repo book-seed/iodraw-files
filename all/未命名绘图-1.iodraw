@@ -19,8 +19,8 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-5" value="关节减速比检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2520" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HmCa7UuBziaWPSLje5jI-6" value="IO信号测试" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="2480" width="140" height="30" as="geometry" />
+        <mxCell id="HmCa7UuBziaWPSLje5jI-6" value="刹车磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2580" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
