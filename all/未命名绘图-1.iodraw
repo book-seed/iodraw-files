@@ -52,6 +52,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-16" value="IO信号检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2460" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-17" value="关节减速比检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2530" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
