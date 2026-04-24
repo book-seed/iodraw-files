@@ -8,7 +8,10 @@
           <mxGeometry x="730" y="2260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-2" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2338" width="120" height="30" as="geometry" />
+          <mxGeometry x="840" y="2338" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-3" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2410" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
