@@ -40,14 +40,17 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-5" value="关节减速比检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2520" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-6" target="HmCa7UuBziaWPSLje5jI-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-6" value="刹车磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-7" value="老化磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2630" width="140" height="30" as="geometry" />
+          <mxGeometry x="840" y="2640" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-8" value="摩擦力信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="2680" width="140" height="30" as="geometry" />
+          <mxGeometry x="840" y="2700" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-9" value="发如精标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2750" width="140" height="30" as="geometry" />
