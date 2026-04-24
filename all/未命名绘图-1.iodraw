@@ -67,6 +67,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-14" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2338" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-15" target="HmCa7UuBziaWPSLje5jI-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-15" value="零位标定+机械限位检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
@@ -90,6 +93,9 @@
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-19" value="老化磨合" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2580" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-20" target="HmCa7UuBziaWPSLje5jI-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-20" value="摩擦力信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2700" width="140" height="30" as="geometry" />
