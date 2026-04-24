@@ -46,6 +46,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-14" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2338" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-15" value="零位标定+机械限位检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="2410" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
