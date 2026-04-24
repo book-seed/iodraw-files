@@ -206,6 +206,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-72" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;从臂&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="820" y="2290" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-73" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;b&gt;底盘&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1017" y="2290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
