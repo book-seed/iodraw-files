@@ -7,8 +7,8 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="2260" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="HmCa7UuBziaWPSLje5jI-2" value="伺服配置烧录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="2360" width="120" height="40" as="geometry" />
+        <mxCell id="HmCa7UuBziaWPSLje5jI-2" value="伺服配置文件烧录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="2360" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
