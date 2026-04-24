@@ -71,7 +71,7 @@
           <mxGeometry x="660" y="2760" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-24" value="零位标定+机械限位检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2390" width="140" height="30" as="geometry" />
+          <mxGeometry x="1030" y="2338" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
