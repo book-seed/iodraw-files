@@ -67,11 +67,14 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-15" value="零位标定+机械限位检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-16" target="HmCa7UuBziaWPSLje5jI-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-16" value="IO信号检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2460" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-17" value="关节减速比检查" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="2530" width="140" height="30" as="geometry" />
+          <mxGeometry x="840" y="2530" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-18" value="指夹电机线性度标定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2640" width="140" height="30" as="geometry" />
@@ -103,8 +106,11 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-27" value="推车调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2590" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-36" target="HmCa7UuBziaWPSLje5jI-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-36" value="脚撑标零/调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2410" width="140" height="30" as="geometry" />
+          <mxGeometry x="1010" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
