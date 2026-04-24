@@ -161,7 +161,10 @@
           <mxGeometry x="1010" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-56" value="备份配置文件至约定路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="3070" width="140" height="30" as="geometry" />
+          <mxGeometry x="840" y="3080" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.47;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-13" target="HmCa7UuBziaWPSLje5jI-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
