@@ -16,14 +16,6 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-1" target="HmCa7UuBziaWPSLje5jI-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HmCa7UuBziaWPSLje5jI-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-1" target="HmCa7UuBziaWPSLje5jI-25">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="910" y="2280" />
-              <mxPoint x="1080" y="2280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-1" target="HmCa7UuBziaWPSLje5jI-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -162,31 +154,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-24" value="脚撑调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2460" width="140" height="30" as="geometry" />
+          <mxGeometry x="1032" y="2460" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-25" target="HmCa7UuBziaWPSLje5jI-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-25" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2338" width="140" height="30" as="geometry" />
+          <mxGeometry x="1032" y="2338" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-26" target="HmCa7UuBziaWPSLje5jI-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-26" value="舵柄传感器标零" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2520" width="140" height="30" as="geometry" />
+          <mxGeometry x="1032" y="2520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-27" target="HmCa7UuBziaWPSLje5jI-56">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-27" value="推车调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2580" width="140" height="30" as="geometry" />
+          <mxGeometry x="1032" y="2580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-36" target="HmCa7UuBziaWPSLje5jI-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-36" value="脚撑标零/调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="2400" width="140" height="30" as="geometry" />
+          <mxGeometry x="1032" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-56" target="HmCa7UuBziaWPSLje5jI-62">
           <mxGeometry relative="1" as="geometry" />
