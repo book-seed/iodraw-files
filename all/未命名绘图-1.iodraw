@@ -133,6 +133,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-22" value="动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2760" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-24" target="HmCa7UuBziaWPSLje5jI-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-24" value="脚撑调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2460" width="140" height="30" as="geometry" />
         </mxCell>
@@ -142,11 +145,14 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-25" value="伺服配置文件烧录/整定" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2338" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-26" target="HmCa7UuBziaWPSLje5jI-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-26" value="舵柄传感器标零" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2520" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-27" value="推车调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="2590" width="140" height="30" as="geometry" />
+          <mxGeometry x="1010" y="2580" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-36" target="HmCa7UuBziaWPSLje5jI-24">
           <mxGeometry relative="1" as="geometry" />
