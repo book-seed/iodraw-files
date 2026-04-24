@@ -34,8 +34,8 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-10" value="吊盘动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="2810" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HmCa7UuBziaWPSLje5jI-11" value="吊盘动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="2820" width="140" height="30" as="geometry" />
+        <mxCell id="HmCa7UuBziaWPSLje5jI-11" value="预调整臂动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2870" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
