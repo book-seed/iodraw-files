@@ -169,6 +169,9 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-36" value="脚撑标零/调参" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1010" y="2400" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HmCa7UuBziaWPSLje5jI-56" target="HmCa7UuBziaWPSLje5jI-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-56" value="备份配置文件至约定路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="3060" width="150" height="30" as="geometry" />
         </mxCell>
@@ -176,7 +179,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HmCa7UuBziaWPSLje5jI-62" value="结束" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="867.5" y="3120" width="85" height="40" as="geometry" />
+          <mxGeometry x="867.5" y="3110" width="85" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
