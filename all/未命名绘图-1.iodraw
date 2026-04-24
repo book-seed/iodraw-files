@@ -64,8 +64,11 @@
         <mxCell id="HmCa7UuBziaWPSLje5jI-20" value="摩擦力信息采集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="2700" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HmCa7UuBziaWPSLje5jI-21" value="RCM动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="2770" width="140" height="30" as="geometry" />
+        <mxCell id="HmCa7UuBziaWPSLje5jI-21" value="运动学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2840" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HmCa7UuBziaWPSLje5jI-22" value="动力学辨识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="2760" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
