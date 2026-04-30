@@ -101,10 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-39" value="到达目标？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="590" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="602" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-41" value="滑台复位成功" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="515" y="680" width="80" height="30" as="geometry" />
+          <mxGeometry x="515" y="692" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-39" target="F9Rsc2NSv19CAs51O9PU-41">
           <mxGeometry relative="1" as="geometry" />
@@ -139,15 +139,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-46" value="上升遇阻？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="512" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-50">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="480" as="targetPoint" />
+            <mxPoint x="626" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-50" value="系统提示：滑台上升遇阻，请移开障碍" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="650" y="495" width="120" height="50" as="geometry" />
+          <mxGeometry x="650" y="507" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
