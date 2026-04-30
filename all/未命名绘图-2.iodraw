@@ -51,9 +51,6 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-12" value="滑台保持当前位置" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="304" y="580" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-17" target="F9Rsc2NSv19CAs51O9PU-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-17" value="滑台上升" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="440" width="80" height="30" as="geometry" />
         </mxCell>
@@ -122,8 +119,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-46" value="到达目标？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="500" width="90" height="40" as="geometry" />
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-46" value="上升遇阻？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="500" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
