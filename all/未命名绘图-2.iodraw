@@ -52,7 +52,7 @@
           <mxGeometry x="325" y="280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-12" value="滑台保持当前位置" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="280" y="540" width="170" height="40" as="geometry" />
+          <mxGeometry x="310" y="540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-17" value="滑台上升" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="540" width="80" height="30" as="geometry" />
