@@ -101,10 +101,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-39" value="到达目标？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="511" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="580" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-41" value="滑台复位成功" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="515" y="611" width="80" height="30" as="geometry" />
+          <mxGeometry x="515" y="680" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-39" target="F9Rsc2NSv19CAs51O9PU-41">
           <mxGeometry relative="1" as="geometry" />
@@ -121,6 +121,9 @@
           <mxGeometry x="0.0375" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-46" value="到达目标？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="500" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
