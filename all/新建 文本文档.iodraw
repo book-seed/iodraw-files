@@ -1,0 +1,147 @@
+<mxfile host="app.diagrams.net">
+  <diagram id="forward-kinematics" name="Page-1">
+    <mxGraphModel dx="1614" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- 主函数层 -->
+        <mxCell id="sub1" value="1. 主函数: forwardKinematics" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#6ca67a;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="400" height="120" as="geometry"/>
+        </mxCell>
+        <mxCell id="start" value="开始" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub1">
+          <mxGeometry x="20" y="20" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="check1" value="检查输入 q.size() == model.nq" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub1">
+          <mxGeometry x="100" y="20" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="check2" value="检查 model.check(data)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub1">
+          <mxGeometry x="100" y="70" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="init" value="初始化循环 JointIndex i = 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub1">
+          <mxGeometry x="100" y="120" width="200" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- 连接线 -->
+        <mxCell id="c1" style="endArrow=block;html=1;" edge="1" parent="1" source="start" target="check1">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c2" style="endArrow=block;html=1;" edge="1" parent="1" source="check1" target="check2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c3" style="endArrow=block;html=1;" edge="1" parent="1" source="check2" target="init">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- 循环遍历层 -->
+        <mxCell id="sub2" value="2. 遍历关节树" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="100" y="220" width="400" height="200" as="geometry"/>
+        </mxCell>
+        <mxCell id="cond" value="i &lt; model.njoints?" style="diamond;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub2">
+          <mxGeometry x="150" y="20" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="getJoint" value="获取 model.joints[i]" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub2">
+          <mxGeometry x="100" y="100" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="callAlgo" value="调用 Algo::run(...)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub2">
+          <mxGeometry x="100" y="150" width="200" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="inc" value="i++" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub2">
+          <mxGeometry x="100" y="200" width="60" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="end" value="结束" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub2">
+          <mxGeometry x="300" y="20" width="60" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- 循环连接线 -->
+        <mxCell id="c4" style="endArrow=block;html=1;" edge="1" parent="1" source="init" target="cond">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c5" style="endArrow=block;html=1;" edge="1" parent="1" source="cond" target="getJoint">
+          <mxGeometry relative="1" as="geometry"/>
+          <mxPoint x="200" y="80" as="sourcePoint"/>
+          <mxPoint x="200" y="100" as="targetPoint"/>
+        </mxCell>
+        <mxCell id="c6" style="endArrow=block;html=1;" edge="1" parent="1" source="getJoint" target="callAlgo">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c7" style="endArrow=block;html=1;" edge="1" parent="1" source="callAlgo" target="inc">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c8" style="endArrow=block;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="inc" target="cond">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c9" style="endArrow=block;html=1;" edge="1" parent="1" source="cond" target="end">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <!-- 计算逻辑层 -->
+        <mxCell id="sub3" value="3. 计算逻辑 (ForwardKinematicZeroStep)" style="rounded=0;whiteSpace=wrap;html=1;fillColor:#e1f5fe;strokeColor=#0288d1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="500" height="300" as="geometry"/>
+        </mxCell>
+        <mxCell id="dispatch" value="根据关节类型分发" style="diamond;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="50" y="30" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="rev" value="Revolute 计算旋转矩阵" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="20" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="prism" value="Prismatic 计算平移向量" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="60" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="free" value="FreeFlyer 计算 SE3 变换" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="100" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="sphere" value="Spherical 计算四元数/旋转" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="140" width="180" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="updateLocal" value="更新 data.liMi[i] (局部变换)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="200" width="220" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="updateGlobal" value="更新 data.oMi[i] (全局变换)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="250" width="220" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="returnLoop" value="返回循环" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;" vertex="1" parent="sub3">
+          <mxGeometry x="200" y="300" width="120" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- 计算模块连接线 -->
+        <mxCell id="c10" style="endArrow=block;html=1;" edge="1" parent="1" source="callAlgo" target="dispatch">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c11" style="endArrow=block;html=1;" edge="1" parent="1" source="dispatch" target="rev">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c12" style="endArrow=block;html=1;" edge="1" parent="1" source="dispatch" target="prism">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c13" style="endArrow=block;html=1;" edge="1" parent="1" source="dispatch" target="free">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c14" style="endArrow=block;html=1;" edge="1" parent="1" source="dispatch" target="sphere">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c15" style="endArrow=block;html=1;" edge="1" parent="1" source="rev" target="updateLocal">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c16" style="endArrow=block;html=1;" edge="1" parent="1" source="prism" target="updateLocal">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c17" style="endArrow=block;html=1;" edge="1" parent="1" source="free" target="updateLocal">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c18" style="endArrow=block;html=1;" edge="1" parent="1" source="sphere" target="updateLocal">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c19" style="endArrow=block;html=1;" edge="1" parent="1" source="updateLocal" target="updateGlobal">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c20" style="endArrow=block;html=1;" edge="1" parent="1" source="updateGlobal" target="returnLoop">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="c21" style="endArrow=block;html=1;dashed=1;" edge="1" parent="1" source="returnLoop" target="inc">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
