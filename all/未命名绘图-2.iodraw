@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-39" value="上升遇阻？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="530" width="90" height="40" as="geometry" />
+          <mxGeometry x="505" y="510" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-41" value="滑台复位成功" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="515" y="610" width="80" height="30" as="geometry" />
