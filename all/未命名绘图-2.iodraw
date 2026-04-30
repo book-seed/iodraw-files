@@ -18,8 +18,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-5" target="F9Rsc2NSv19CAs51O9PU-25">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="365" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="F9Rsc2NSv19CAs51O9PU-27">
           <mxGeometry x="-0.3446" y="1" relative="1" as="geometry">
@@ -62,12 +64,6 @@
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-24" value="系统提示：器械" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="310" y="600" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-25" target="F9Rsc2NSv19CAs51O9PU-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-25" value="等待2秒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="380" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
