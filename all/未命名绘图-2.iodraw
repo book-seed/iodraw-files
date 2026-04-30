@@ -60,6 +60,9 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-23" value="&lt;span style=&quot;text-align: left;&quot;&gt;1.器械碰撞后脱离&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2.人为拆除后未完全移走器械&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="430" width="120" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-24" value="系统提示：器械" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="600" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
