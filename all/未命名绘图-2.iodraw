@@ -55,7 +55,7 @@
           <mxGeometry x="120" y="560" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-24" value="系统提示：器械脱落，请移开器械，待滑台复位后重新安装" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="310" y="670" width="110" height="30" as="geometry" />
+          <mxGeometry x="260" y="670" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-30" target="F9Rsc2NSv19CAs51O9PU-6">
           <mxGeometry relative="1" as="geometry" />
