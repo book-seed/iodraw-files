@@ -13,14 +13,14 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-5" target="F9Rsc2NSv19CAs51O9PU-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-5" value="器械探针触发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-5" value="器械探针信号丢失" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="340" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-6" value="RFID信号存在？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="420" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-8" value="主从操作中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="250" width="80" height="60" as="geometry" />
+          <mxGeometry x="325" y="280" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
