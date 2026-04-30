@@ -35,7 +35,7 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-8" value="主从操作中" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="280" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-12" value="器械碰撞后脱离或人为拆除后未完全移走器械" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
