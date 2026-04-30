@@ -55,12 +55,12 @@
           <mxGeometry x="280" y="530" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-17" value="器械正常拆除" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="530" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="530" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-21" value="滑台上升" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="480" y="610" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-17">
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-17" target="F9Rsc2NSv19CAs51O9PU-21">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="600" as="targetPoint" />
           </mxGeometry>
