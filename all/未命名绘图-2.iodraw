@@ -54,7 +54,7 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-12" value="1.器械碰撞后脱离&lt;div&gt;2.人为拆除后未完全移走器械&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="280" y="530" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-17" value="1.器械碰撞后脱离&lt;div&gt;2.人为拆除后未完全移走器械&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-17" value="正常拆除器械" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="530" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
