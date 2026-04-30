@@ -142,7 +142,7 @@
           <mxGeometry x="505" y="500" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-50" value="系统提示：滑台上升遇阻，请移开障碍" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="640" y="495" width="120" height="50" as="geometry" />
+          <mxGeometry x="650" y="495" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
