@@ -60,6 +60,11 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="F9Rsc2NSv19CAs51O9PU-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="359" y="720" />
+              <mxPoint x="200" y="720" />
+              <mxPoint x="200" y="390" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-24" value="系统提示：器械脱落，请移开器械，待滑台复位后重新安装" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
