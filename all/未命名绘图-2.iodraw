@@ -133,6 +133,9 @@
         <mxCell id="F9Rsc2NSv19CAs51O9PU-46" value="上升遇阻？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="500" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-50" value="系统提示：器械脱落，请移开器械，待滑台复位后重新安装" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="620" y="500" width="180" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
