@@ -13,7 +13,10 @@
           <mxGeometry x="320" y="270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-5" value="器械探针触发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="325" y="340" width="80" height="80" as="geometry" />
+          <mxGeometry x="312.5" y="340" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-6" value="器械探针触发" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="420" width="105" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
