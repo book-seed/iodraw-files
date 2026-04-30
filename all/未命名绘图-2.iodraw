@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="F9Rsc2NSv19CAs51O9PU-1" value="器械安装" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="370" width="120" height="60" as="geometry" />
+        <mxCell id="F9Rsc2NSv19CAs51O9PU-1" value="器械探针触发" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F9Rsc2NSv19CAs51O9PU-2" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="120" height="80" as="geometry" />
+          <mxGeometry x="320" y="270" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
